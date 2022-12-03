@@ -17,11 +17,11 @@
     "ci:publish": "yarn semantic-release",
     "semantic-release": "semantic-release"
   },
-  "repository": "solinor/react-native-ci",
+  "repository": "buiduc06/react-native-ci",
   "author": {
-    "name": "Juha Linnanen",
-    "email": "juha.linnanen@gofore.com",
-    "url": "https://github.com/solinor/react-native-ci"
+    "name": "buiduc06",
+    "email": "ducbui.dev@gmail.com",
+    "url": "https://github.com/buiduc06/react-native-ci"
   },
   "files": [
     "LICENSE",
